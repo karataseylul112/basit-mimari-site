@@ -27,8 +27,7 @@ Bu proje, HTML ve CSS temellerini pekiştirmek ve şık bir arayüz tasarımı o
 4. index.html dosyasını tarayıcında aç.
 5. İstersen VS Code üzerinde Live Server eklentisini kullanabilirsin.
 
-# Canlı Önizleme 
-(https://karataseylul112.github.io/basit-mimari-site)
+
 
 ## Proje Dosya Yapısı
 
